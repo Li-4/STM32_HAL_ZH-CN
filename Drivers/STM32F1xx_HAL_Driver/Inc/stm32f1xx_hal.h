@@ -62,12 +62,12 @@ uint32_t HAL_GetDEVID(void);
 uint32_t HAL_GetUIDw0(void);
 uint32_t HAL_GetUIDw1(void);
 uint32_t HAL_GetUIDw2(void);
-void HAL_DBGMCU_EnableDBGSleepMode(void);
-void HAL_DBGMCU_DisableDBGSleepMode(void);
-void HAL_DBGMCU_EnableDBGStopMode(void);
-void HAL_DBGMCU_DisableDBGStopMode(void);
-void HAL_DBGMCU_EnableDBGStandbyMode(void);
-void HAL_DBGMCU_DisableDBGStandbyMode(void);
+// void HAL_DBGMCU_EnableDBGSleepMode(void);
+// void HAL_DBGMCU_DisableDBGSleepMode(void);
+// void HAL_DBGMCU_EnableDBGStopMode(void);
+// void HAL_DBGMCU_DisableDBGStopMode(void);
+// void HAL_DBGMCU_EnableDBGStandbyMode(void);
+// void HAL_DBGMCU_DisableDBGStandbyMode(void);
 
 
 #endif /* __STM32F1xx_HAL_H */
